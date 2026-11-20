@@ -13,16 +13,14 @@ https://sidemeetings.ietf.org/
 
 |   | Topic | Time | Presenter | Company |
 |------|------|:----:|:----:|:----:|
-| 0 | Opening Introduction  | 5 |   |   |
-| 1 | Broadband Networking @ IETF | 10 |  |  |
-| 2 | New Use Cases in Broadband | 10 |  |  |
-| 3 | Protocol Considerations | 10 |  |  |
-| 4 | Gap and Future Plan| 10 |  |  |
-| 5 | Open Discussion & Summary | 15 | All |  |  
+| 0 | Opening Introduction  | 5 |  Weiqiang Cheng | China Mobile  |
+| 1 | New Use Cases in Broadband | 15 | Jinming Li | China Mobile |
+| 2 | Access Protocol Problem and Gap Analysis | 10 | Xueyan Song | ZTE |
+| 3 | Broadband Networking @ IETF | 15 | Christian Giese | RtBrick |
+| 4 | Future Plan Open Discussion & Summary | 15 | All |  |
   
 
 **Organizers**:  
 Jian Song songjianyjy@chinamobile.com  
 Christian Giese christian@rtbrick.com  
 Xueyan Song song.xueyan2@zte.com.cn  
-
